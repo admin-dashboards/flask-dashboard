@@ -1,6 +1,6 @@
 # Flask Dashboard
 
-Open-Source Flask admin dashboards. 
+Open-Source [Flask](http://flask.pocoo.org/) **admin dashboards**. 
 
 ## Flask Dashboard Light
 
